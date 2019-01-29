@@ -41,7 +41,7 @@ Het bestand bevat de volgende attributen:
 |Kanscat_HT_warmtenet_WEQ || Kansrijke WEQ warmtenet|
 |Kanscat_AllElectric_WEQ |1| Kansrijke WEQ all electric|
 
-Let op Indicatie_Blokverwarming, Kanscat_HT_warmtenet en Kanscat_HT_warmtenet_WEQ zijn altijd `NULL`.
+Let op: Indicatie_Blokverwarming, Kanscat_HT_warmtenet en Kanscat_HT_warmtenet_WEQ zijn altijd `NULL`.
 
 ## Feature class in PI sandbox
 
