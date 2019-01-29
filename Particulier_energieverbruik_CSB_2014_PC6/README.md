@@ -14,7 +14,7 @@ De gegevens zijn afkomstig van het CBS.
 * [Warmte Transitie Atlas](https://warmtetransitieatlas.zuid-holland.nl/webappbuilder/apps/496/)
 * [ArcGIS feature service van Over Morgen](https://services5.arcgis.com/PZYGbbhVncO1YI8q/arcgis/rest/services/PZH_WTA_Energieverbruik/FeatureServer)
 
-![](voorbeeld_particulier_energieverbruik_CBS_2014_pc6.png)
+![](voorbeeld_particulier_energieverbruik_cbs_2014_pc6.png)
 
 ## Attributen
 
