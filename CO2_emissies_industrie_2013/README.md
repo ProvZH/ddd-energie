@@ -9,8 +9,8 @@ Deze dataset bevat gegevens over de restwarmtepotentie op basis van CO2-emissies
 **Projectie:** Amersfoort RD New EPSG:28992
 
 **Bron Url:** 
-* (Warmte Transitie Atlas)[https://warmtetransitieatlas.zuid-holland.nl/webappbuilder/apps/496/]
-* (ArcGIS Server Feature Service service van Over Morgen)[https://services5.arcgis.com/PZYGbbhVncO1YI8q/arcgis/rest/services/restwarmte_potentie_rvo_20160203/FeatureServer]
+* [Warmte Transitie Atlas](https://warmtetransitieatlas.zuid-holland.nl/webappbuilder/apps/496/)
+* [ArcGIS Server Feature Service service van Over Morgen](https://services5.arcgis.com/PZYGbbhVncO1YI8q/arcgis/rest/services/restwarmte_potentie_rvo_20160203/FeatureServer)
 
 ![](voorbeeld_co2_emissies_industrie_2013.png)
 
