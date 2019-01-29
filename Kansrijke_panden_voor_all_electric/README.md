@@ -4,7 +4,7 @@ Deze dataset bevat gegevens van kansrijke gebouwen voor all electric in Provinci
 De dataset is overgenomen uit de [Warmte Transitie Atlas](https://warmtetransitieatlas.zuid-holland.nl/webappbuilder/apps/496/) samengesteld door adviesbureau Over Morgen in opdracht van de provincie Zuid-Holland. 
 Het is onbekend wat de bron is van de gegevens.
 
-**Jaar:**onbekend 2014
+**Jaar:** onbekend
 
 **Dekking:** Zuid-Holland
 
