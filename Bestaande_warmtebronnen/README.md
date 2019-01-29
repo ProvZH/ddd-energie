@@ -10,7 +10,7 @@ Deze dataset bevat gegevens over de bestaande bronnen die warmte leveren aan war
 
 **Bron Url:** 
 * [Warmte Transitie Atlas](https://warmtetransitieatlas.zuid-holland.nl/webappbuilder/apps/496/)
-* [ArcGIS Server Feature Service service van Over Morgen](https://services5.arcgis.com/PZYGbbhVncO1YI8q/arcgis/rest/services/WTA_PZH_Warmtebronnen/FeatureServer)
+* [ArcGIS feature service van Over Morgen](https://services5.arcgis.com/PZYGbbhVncO1YI8q/arcgis/rest/services/WTA_PZH_Warmtebronnen/FeatureServer)
 * [WFS van Over Morgen](https://dservices5.arcgis.com/PZYGbbhVncO1YI8q/arcgis/services/PZH_WTA_Warmtebronnen_WFS/WFSServer?service=wfs&request=getcapabilities)
 
 ![](voorbeeld_bestaande_warmtebronnen.png)
