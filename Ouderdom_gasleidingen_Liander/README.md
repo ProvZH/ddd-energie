@@ -25,7 +25,7 @@ Het bestand bevat de volgende attributen:
 |OBJECTID_1 | 1  | Uniek identificatienummer |
 |PAND_ID | 15856806  | Pand ID |
 |POSTCODE | 2333CC  | Uniek identificatienummer |
-|GEWOGEN_GEMIDDELDE_CATEGORIE  | 	2.35  | Gewogen gemiddelde categorie (x). 1 ≤ x ≤ 1.67: Overwegend oudere leidingen. 1.67 < x ≤ 2.34: Gemiddelde leeftijd, 2.34 < x ≤ 3: Overwegend nieuwe leidingen. |
+|GEWOGEN_GEMIDDELDE_CATEGORIE  | 	2.35  | Gewogen gemiddelde categorie (x). <BR> 1 ≤ x ≤ 1.67: Overwegend oudere leidingen. <BR> 1.67 < x ≤ 2.34: Gemiddelde leeftijd. <BR> 2.34 < x ≤ 3: Overwegend nieuwe leidingen. |
 
 ## Feature class in PI sandbox
 
