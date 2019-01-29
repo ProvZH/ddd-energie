@@ -1,4 +1,4 @@
-# CO2-emissies industrie 2013
+# Bestaande warmtebronnen
 
 Deze dataset bevat gegevens over de bestaande bronnen die warmte leveren aan warmtenetten naar brontype. De gegevens zijn overgenomen uit de Warmte Transitie Atlas samengesteld door adviebureau Over Morgen in opdracht van de provincie Zuid-Holland. Het is onduidelijk wat de herkomst van de gegevens is.
 
