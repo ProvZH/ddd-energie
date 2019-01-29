@@ -12,7 +12,7 @@ Het is onduidelijk wat de herkomst is van de gegevens.
 
 **Bron Url:** 
 * [Warmte Transitie Atlas](https://warmtetransitieatlas.zuid-holland.nl/webappbuilder/apps/496/)
-* [ArcGIS feature service van Over Morgen](https://services3.arcgis.com/PeOi6aWiQVQNdaI8/arcgis/rest/services/KM_Gasvervangingsdata/FeatureServer)
+* [ArcGIS feature service](https://services3.arcgis.com/PeOi6aWiQVQNdaI8/arcgis/rest/services/KM_Gasvervangingsdata/FeatureServer)
 
 ![](voorbeeld_ouderdom_gasleidingen_stedin.png)
 
