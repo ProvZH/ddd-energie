@@ -37,4 +37,4 @@ Shape
 
 ## Feature class in PI sandbox
 
-De dataset is als feature class `CO2_emissies_industrie_2013` terug te vinden in de PI sandbox database.
+De dataset is als feature class `Vergunde_WKO_systemen_2017` terug te vinden in de PI sandbox database.
