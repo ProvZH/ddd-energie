@@ -10,7 +10,7 @@ Deze dataset bevat gegevens over vergunningen voor warmte-koudeopslag tot en met
 
 **Bron Url:** 
 * [Warmte Transitie Atlas](https://warmtetransitieatlas.zuid-holland.nl/webappbuilder/apps/496/)
-* [ArcGIS Server Map Server van de provincie Zuid-Holland](https://geoservices.zuid-holland.nl/arcgis/rest/services/Milieu/Milieu_WKO/MapServer)
+* [ArcGIS map service van de provincie Zuid-Holland](https://geoservices.zuid-holland.nl/arcgis/rest/services/Milieu/Milieu_WKO/MapServer)
 * [WFS van de provincie Zuid-Holland](https://geoservices.zuid-holland.nl/arcgis/rest/services/Milieu/Milieu_WKO_WFS/MapServer)
 
 ![](voorbeeld_vergunde_wko_systemen_2017.png)
