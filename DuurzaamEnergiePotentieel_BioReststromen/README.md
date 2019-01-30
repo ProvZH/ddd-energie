@@ -8,13 +8,9 @@ De WarmteAtlas Nederland is een digitale, geografische kaart waarop warmteaanbod
 
 **Dekking:** Nederland
 
-**Bron Url:** 
+**Bron Url:** http://rvo.b3p.nl/viewer/app/Warmteatlas/v2
 
-Beschrijving data : http://energiewiki.tiddlyspot.com/#Biogas
-
-PDOK beheer de Warmte Atlas
-
-Beschikbare lagen:
+## Beschikbare lagen:
 
 * Potentieel biogas totaal
 * [Potentieel biogas GFT-afval](#GFT-kaart)
@@ -22,6 +18,10 @@ Beschikbare lagen:
 * [Potentieel biogas vloeibare mest](#mestkaart)
 * Potentieel houtachtige biomassa bos
 * Totaal potentieel houtachtige biomassa
+
+
+Beschrijving biogas data : http://energiewiki.tiddlyspot.com/#Biogas
+Beschrijving hout data: http://energiewiki.tiddlyspot.com/#Hout
 
 ![](voorbeeld.png)
 
@@ -48,8 +48,23 @@ Mestvolume gevens per gemeente (CBS statline) zijn hiervoor omgerekend naar GJ p
 
     BG_MEST_OPP = [30 (Nm3 biogas )/(ton mest) * 60% (aandeel methaan in biogas) * 0.036 GJ/(Nm3 methaan)]/ (ha land)
 
+
+## Houtachtige biomassa uit Bos per hectare land per jaar
+
+Er is ongeveer 0.01 GJ/(ha.jaar) aan resthout beschikbaar uit Bos [ (2007)]. Dit is vermenigvuldigd met het aandeel Bos areaal per gemeente en gedeeld door het totale land areaal van de gemeente.
+
+    HT_BOS_OPP GJ/(ha_land.jaar) = 0.01 GJ/(ha_bos.jaar) * (ha_Bos) / (ha_land gemeente)
+
+Bron: (2007). Biomassa voor energie uit de nederlandse natuur. Technical report, WUR Wageningen Universiteit.
+
+## 
+Potentieel Houtachtige Biomassa uit Bos per oppervlakte land per gemeente in GJ/(ha.jaar)
+
+
+
 ## Download op nationaal georegister
 
+http://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/34dacd72-d2fb-4e28-844d-73d3b9c3fef2
 http://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/40f04047-3b61-40eb-b026-c1a0caa71881
 
 ## Services
