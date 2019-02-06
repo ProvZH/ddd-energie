@@ -74,7 +74,7 @@ Het bestand bevat de volgende attributen:
 |arbeidsint		 | gemiddelde | Arbeidsintensitiviteit; grove indicatie van het aantal mensen dat gemiddeld per jaar per hectare werkzaam irbeidsintensitiviteit; minder dan 2 mensen is laag, tussen 2 en 5 mensen is gemiddeld en meer dan 5 mensen is hoog  |
 |seizoen		 | nee | Aanduiding of de kas een deel van het jaar leeg staat |
 |hnt		 | onbekend |  |
-|enercode		 | 5 | 1 = geen energie vraag, 2 = 0 - 5 m3 gas per m2 per jaar, 3 = 5 – 15 m3 gas per m2 per jaar, 4 = 15-25 m3 per m2 per jaar, 5 = 25-35 m3 per m2 per jaar, 6 = > 35 m3 per m2 per jaar,  0 = geen informatie aanwezig / geen tuinbouw bedrijf |
+|enercode		 | 5 | warmtebehoefte: 1 = geen energie vraag, 2 = 0 - 5 m3 gas per m2 per jaar, 3 = 5 – 15 m3 gas per m2 per jaar, 4 = 15-25 m3 per m2 per jaar, 5 = 25-35 m3 per m2 per jaar, 6 = > 35 m3 per m2 per jaar,  0 = geen informatie aanwezig / geen tuinbouw bedrijf |
 |enerwarm		 |  |  |
 |opmenergie		 |  | Opmerkingen over de energiesituatie|
 |opmerking		 |  | Opmerkingen over de bedrijfssituatie |
