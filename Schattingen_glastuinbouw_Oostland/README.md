@@ -49,17 +49,17 @@ Het bestand bevat de volgende attributen:
 |opmkas_sch		 | buiten scherm aanwezig | Opmerkingen schuur |
 |belichting		 | nee | Belichting |
 |stomen		 | nee |Verwachting op basis van teelt en teeltondergrond of er gestoomd wordt om de grond te reinigen |
-|co2noodzak		 | nee | Met CO₂ noodzakelijk wordt bedoeld dat er kosten gemaakt worden om CO₂ in de kas te krijgen. Dit aanvullend op het in bijna alle gevallen aanwezige standaard CO₂ leidingennet in de kas.  |
-|co2bron		 |  |  |
-|wkk		 |  |  |
-|wkk_type		 |  |  |
-|wkkvermkw		 |  |  |
-|rgr		 |  |  |
-|warmbuiten		 |  |  |
-|bronwarmbu		 |  |  |
-|geothermie		 |  |  |
-|warmtebron		 |  |  |
-|koudebron		 |  |  |
+|co2noodzak		 | nee | Kosten om CO₂ in de kas te krijgen, bovenop het in bijna alle gevallen aanwezige standaard CO₂ leidingennet in de kas  |
+|co2bron		 | ja | CO₂ van buitenaf aanwezig |
+|wkk		 | zuivere CO2 uit tank | WKK aanwezig op het bedrijf |
+|wkk_type		 | Deutz  MWM | Merk van de WKK |
+|wkkvermkw		 | onbekend | Elektrisch vermogen van de WKK (kW/uur) |
+|rgr		 | onbekend | Rookgasreiniger |
+|warmbuiten		 | nee | Warmte buitenaf |
+|bronwarmbu		 | nvt | Bron warmte buitenaf |
+|geothermie		 | nee | Warmtewinning vanuit geothermie |
+|warmtebron		 | geen | Warmtebronnen anders dan ketel, WKK of levering van buitenaf |
+|koudebron		 | nee | Koude bron |
 |buffer		 |  |  |
 |typebuffer		 |  |  |
 |vermbuff		 |  |  |
