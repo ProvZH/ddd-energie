@@ -60,31 +60,31 @@ Het bestand bevat de volgende attributen:
 |geothermie		 | nee | Warmtewinning vanuit geothermie |
 |warmtebron		 | geen | Warmtebronnen anders dan ketel, WKK of levering van buitenaf |
 |koudebron		 | nee | Koude bron |
-|buffer		 |  |  |
-|typebuffer		 |  |  |
-|vermbuff		 |  |  |
-|dockshelt		 |  |  |
-|scherm		 |  |  |
-|f_schermen		 |  |  |
-|typescherm		 |  |  |
-|zonnepan		 |  |  |
-|windmolen		 |  |  |
-|watbassin		 |  |  |
-|water_tank		 |  |  |
-|arbeidsint		 |  |  |
-|seizoen		 |  |  |
-|hnt		 |  |  |
-|enercode		 |  | 1 = geen energie vraag, 2 = 0 - 5 m3 gas per m2 per jaar, 3 = 5 – 15 m3 gas per m2 per jaar, 4 = 15-25 m3 per m2 per jaar, 5 = 25-35 m3 per m2 per jaar, 6 = > 35 m3 per m2 per jaar,  0 = geen informatie aanwezig / geen tuinbouw bedrijf |
+|buffer		 | ja | Grote tank voor warmteopslag |
+|typebuffer		 | staand | Type buffer |
+|vermbuff		 | 800 | Buffervolume (m3) |
+|dockshelt		 | nee | Aanwezigheid dockshelter (laadruimte in het bedrijf waar de vrachtwagen vloer gelijk is aan je bedrijfsvloer) |
+|scherm		 | ja | Aanwezigheid scherm met als taak om warmte en/of licht binnen en/of buiten te houden |
+|f_schermen		 | 1 | Aantal schermen |
+|typescherm		 | energie | Type schermen |
+|zonnepan		 | nee | Zonnepanelen |
+|windmolen		 | nee | Windmolen |
+|watbassin		 | ja | Waterbassin |
+|water_tank		 | nee | Watertanks |
+|arbeidsint		 | gemiddelde | Arbeidsintensitiviteit; grove indicatie van het aantal mensen dat gemiddeld per jaar per hectare werkzaam irbeidsintensitiviteit; minder dan 2 mensen is laag, tussen 2 en 5 mensen is gemiddeld en meer dan 5 mensen is hoog  |
+|seizoen		 | nee | Aanduiding of de kas een deel van het jaar leeg staat |
+|hnt		 | onbekend |  |
+|enercode		 | 5 | 1 = geen energie vraag, 2 = 0 - 5 m3 gas per m2 per jaar, 3 = 5 – 15 m3 gas per m2 per jaar, 4 = 15-25 m3 per m2 per jaar, 5 = 25-35 m3 per m2 per jaar, 6 = > 35 m3 per m2 per jaar,  0 = geen informatie aanwezig / geen tuinbouw bedrijf |
 |enerwarm		 |  |  |
-|opmenergie		 |  |  |
-|opmerking		 |  |  |
+|opmenergie		 |  | Opmerkingen over de energiesituatie|
+|opmerking		 |  | Opmerkingen over de bedrijfssituatie |
 |deelgebied		 |  |  |
 |registrati		 |  |  |
 |straat		 |  |  |
 |kern		 |  |  |
 |bagid		 |  |  |
 |poothoogt1		 |  |  |
-|oppervlakt		 |  |  |
+|oppervlakt		 |  | Oppervlakte van de BAG locatie (m2); in de praktijk zijn dit oppervlaktes van bedrijfslocatie |
 |objectid		 |  |  |
 |identifica		 |  |  |
 |bouwjaar		 |  |  |
