@@ -1,6 +1,6 @@
 # Bio Reststromen - Duurzaam Energie Potentieel
 
-De WarmteAtlas Nederland is een digitale, geografische kaart waarop warmteaanbod en -vraag in ons land zijn aangegeven. Aan de aanbodkant gaat het om (potentieel) geschikte locaties van warmte- en koude opslag (WKO), diepe geothermie, biomassa en restwarmte. Deze lagen tonen de potentie voor biomassa per gemeente.
+De [WarmteAtlas Nederland](http://rvo.b3p.nl/viewer/app/Warmteatlas/v2) is een digitale, geografische kaart waarop warmteaanbod en -vraag in ons land zijn aangegeven. Aan de aanbodkant gaat het om (potentieel) geschikte locaties van warmte- en koude opslag (WKO), diepe geothermie, biomassa en restwarmte. Deze lagen tonen de potentie voor biomassa per gemeente.
 
 **Aggregatie:** per gemeente
 
