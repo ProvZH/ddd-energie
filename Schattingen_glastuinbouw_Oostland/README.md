@@ -30,19 +30,19 @@ Het bestand bevat de volgende attributen:
 | Attribuut          | Voorbeeld | Beschrijving | 
 |----------         |-----------|--------------|
 |objectid_1	 | 1  | Uniek identificatienummer |
-|straatnaam	 |  |  |
-|huisnummer		 |  |  |
-|bedr_naam	 |  |  |	
-|gebruikkas		 |  | Gebruik kas. Mogelijke waarden: Teelt, In aanbouw, Leegstaand, Momenteel geen teelt, Stalling, Plantenonderhoud, Industrie, Bedrijfsgebouw, Wordt gesloopt, Gesloopt braakliggend |
-|teeltsoort		 |  |  |
-|teelt		 |  |  |
-|ondergrtlt		 |  |  |
-|kastype_1		 |  |  |
-|poothgt1		 |  |  |
-|kastype_2		 |  |  |
-|poothgt2		 |  |  |
-|leeftydkas		 |  |  |
-|verstening		 |  |  |
+|straatnaam	 |  | Straatnaam |
+|huisnummer		 |  | Huisnummer |
+|bedr_naam	 |  | Bedrijfsnaam |	
+|gebruikkas		 | Teelt  | Gebruik kas |
+|teeltsoort		 | snijbloemen | Teeltsoort |
+|teelt		 | pioenrozen | Teelt |
+|ondergrtlt		 | grondgebonden | Ondergrond teelt |
+|kastype_1		 | venlo | Kastype |
+|poothgt1		 | 3 | Poothoogte (meters); poothoogte is een tuinbouwterm die de hoogte van de kas weergeeft |
+|kastype_2		 | venlo | Kastype; alleen gevuld als er meerdere kastypes voorkomen |
+|poothgt2		 | 3 | Poothoogte; alleen gevuld als er meerdere poothoogtes voorkomen |
+|leeftydkas		 | 1984 | Bouwjaar van de kas |
+|verstening		 | ja | Verstening binnen oppervlakte van het BAG-object (ja/nee) |
 |oppversten		 |  |  |
 |typversten		 |  |  |
 |besgrvers		 |  |  |
