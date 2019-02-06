@@ -29,11 +29,86 @@ Het bestand bevat de volgende attributen:
 
 | Attribuut          | Voorbeeld | Beschrijving | 
 |----------         |-----------|--------------|
-|OBJECTID | 1  | Uniek identificatienummer |
-|Naam          |  WKC Stevenshof | Naam |
-|Categorie          |  Hulpbron | Categorie: Hoofdbron of Hulpbron |
-|Brontype          |  WKK | Brontype: WKK, AVI of Geothermie |
-
+|objectid_1	 | 1  | Uniek identificatienummer |
+|straatnaam	 |  |  |
+|huisnummer		 |  |  |
+|bedr_naam	 |  |  |	
+|gebruikkas		 |  |  |
+|teeltsoort		 |  |  |
+|teelt		 |  |  |
+|ondergrtlt		 |  |  |
+|kastype_1		 |  |  |
+|poothgt1		 |  |  |
+|kastype_2		 |  |  |
+|poothgt2		 |  |  |
+|leeftydkas		 |  |  |
+|verstening		 |  |  |
+|oppversten		 |  |  |
+|typversten		 |  |  |
+|besgrvers		 |  |  |
+|opmkas_sch		 |  |  |
+|belichting		 |  |  |
+|stomen		 |  |  |
+|co2noodzak		 |  |  |
+|co2bron		 |  |  |
+|wkk		 |  |  |
+|wkk_type		 |  |  |
+|wkkvermkw		 |  |  |
+|rgr		 |  |  |
+|warmbuiten		 |  |  |
+|bronwarmbu		 |  |  |
+|geothermie		 |  |  |
+|warmtebron		 |  |  |
+|koudebron		 |  |  |
+|buffer		 |  |  |
+|typebuffer		 |  |  |
+|vermbuff		 |  |  |
+|dockshelt		 |  |  |
+|scherm		 |  |  |
+|f_schermen		 |  |  |
+|typescherm		 |  |  |
+|zonnepan		 |  |  |
+|windmolen		 |  |  |
+|watbassin		 |  |  |
+|water_tank		 |  |  |
+|arbeidsint		 |  |  |
+|seizoen		 |  |  |
+|hnt		 |  |  |
+|enercode		 |  |  |
+|enerwarm		 |  |  |
+|opmenergie		 |  |  |
+|opmerking		 |  |  |
+|deelgebied		 |  |  |
+|registrati		 |  |  |
+|straat		 |  |  |
+|kern		 |  |  |
+|bagid		 |  |  |
+|poothoogt1		 |  |  |
+|oppervlakt		 |  |  |
+|objectid		 |  |  |
+|identifica		 |  |  |
+|bouwjaar		 |  |  |
+|status		 |  |  |
+|shape_leng		 |  |  |
+|k_id		 |  |  |
+|plantsoort		 |  |  |
+|teeltc		 |  |  |
+|teeltd		 |  |  |
+|wateropslg		 |  |  |
+|ol0wl1		 |  |  |
+|postcode		 |  |  |
+|pc6		 |  |  |
+|aantal_mul		 |  |  |
+|aantal_adr		 |  |  |
+|id		 |  |  |
+|code		 |  |  |
+|gemeentena		 |  |  |
+|shape_le_1	 |  |  |
+|shape_area		 |  |  |
+|geometry		 |  |  |
+|centroid		 |  |  |
+|lat		 |  |  |
+|lon	 |  |  |
 
 ## Feature class in PI sandbox
 
@@ -41,5 +116,7 @@ De dataset is als feature class `Schattingen_glastuinbouw_Oostland_punten` en `S
 
 # Dataloket
 De dataset is [via deze link](https://xe5f95b82989a4b549abc16a.azurewebsites.net/documenten/10000002315216) ook als Excel-bestand te downloaden in het Dataloket.
+
+# FME workspace
 
 
