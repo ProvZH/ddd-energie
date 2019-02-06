@@ -33,7 +33,7 @@ Het bestand bevat de volgende attributen:
 |straatnaam	 |  |  |
 |huisnummer		 |  |  |
 |bedr_naam	 |  |  |	
-|gebruikkas		 |  |  |
+|gebruikkas		 |  | Gebruik kas. Mogelijke waarden: Teelt, In aanbouw, Leegstaand, Momenteel geen teelt, Stalling, Plantenonderhoud, Industrie, Bedrijfsgebouw, Wordt gesloopt, Gesloopt braakliggend |
 |teeltsoort		 |  |  |
 |teelt		 |  |  |
 |ondergrtlt		 |  |  |
