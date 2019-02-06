@@ -42,14 +42,14 @@ Het bestand bevat de volgende attributen:
 |kastype_2		 | venlo | Kastype; alleen gevuld als er meerdere kastypes voorkomen |
 |poothgt2		 | 3 | Poothoogte; alleen gevuld als er meerdere poothoogtes voorkomen |
 |leeftydkas		 | 1984 | Bouwjaar van de kas |
-|verstening		 | ja | Verstening binnen oppervlakte van het BAG-object (ja/nee) |
-|oppversten		 |  |  |
-|typversten		 |  |  |
-|besgrvers		 |  |  |
-|opmkas_sch		 |  |  |
-|belichting		 |  |  |
-|stomen		 |  |  |
-|co2noodzak		 |  |  |
+|verstening		 | ja | Verstening binnen oppervlakte van het BAG-object |
+|oppversten		 | 280 | Oppervlakte verstening (m2) |
+|typversten		 | bedrijfsgebouw | Type verstening |
+|besgrvers		 | standaard functies | Beschrijving van welke functies het versteend gebouw heeft, bij de meeste bedrijven gaat dit om de standaard functies |
+|opmkas_sch		 | buiten scherm aanwezig | Opmerkingen schuur |
+|belichting		 | nee | Belichting |
+|stomen		 | nee |Verwachting op basis van teelt en teeltondergrond of er gestoomd wordt om de grond te reinigen |
+|co2noodzak		 | nee | Met CO₂ noodzakelijk wordt bedoeld dat er kosten gemaakt worden om CO₂ in de kas te krijgen. Dit aanvullend op het in bijna alle gevallen aanwezige standaard CO₂ leidingennet in de kas.  |
 |co2bron		 |  |  |
 |wkk		 |  |  |
 |wkk_type		 |  |  |
