@@ -74,7 +74,8 @@ Het bestand bevat de volgende attributen:
 |arbeidsint		 |  |  |
 |seizoen		 |  |  |
 |hnt		 |  |  |
-|enercode		 |  |  |
+|enercode		 |  | 1 = geen energie vraag, 2 = 0 - 5 m3 gas per m2 per jaar, 3 = 5 – 15 m3 gas per m2 per jaar, 4 = 15-25 m3 per m2 per jaar, 5 = 25-35 m3 per m2 per jaar, 6 = > 35 m3 per m2 per jaar,  0 = geen informatie aanwezig / geen tuinbouw bedrijf. 
+ |
 |enerwarm		 |  |  |
 |opmenergie		 |  |  |
 |opmerking		 |  |  |
