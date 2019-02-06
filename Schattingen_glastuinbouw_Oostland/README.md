@@ -114,9 +114,7 @@ Het bestand bevat de volgende attributen:
 
 De dataset is als feature class `Schattingen_glastuinbouw_Oostland_punten` en `Schattingen_glastuinbouw_Oostland_vlakken` terug te vinden in de PI sandbox database. De eerste bevat punten (centroïden), de tweede vlakken. De attribuutinformatie is hetzelfde in beide feature classes.
 
+Deze repo bevat ook de [FME workspace](schattingen_glastuinbouw_oostland.fme) die uitgevoerd is om de dataset klaar te zetten voor de PI sandbox.
+
 # Dataloket
 De dataset is [via deze link](https://xe5f95b82989a4b549abc16a.azurewebsites.net/documenten/10000002315216) ook als Excel-bestand te downloaden in het Dataloket.
-
-# FME workspace
-
-
