@@ -78,32 +78,31 @@ Het bestand bevat de volgende attributen:
 |enerwarm		 |  |  |
 |opmenergie		 |  | Opmerkingen over de energiesituatie|
 |opmerking		 |  | Opmerkingen over de bedrijfssituatie |
-|deelgebied		 |  |  |
-|registrati		 |  |  |
-|straat		 |  |  |
-|kern		 |  |  |
-|bagid		 |  |  |
-|poothoogt1		 |  |  |
+|deelgebied		 | 2 |  |
+|registrati		 |  |  Attribuut is altijd leeg  |
+|straat		 |  |  Attribuut is altijd leeg  |
+|kern		 |  |  Attribuut is altijd leeg  |
+|bagid		 |  |  Attribuut is altijd leeg  |
+|poothoogt1		 |  |  Attribuut is altijd leeg  |
 |oppervlakt		 |  | Oppervlakte van de BAG locatie (m2); in de praktijk zijn dit oppervlaktes van bedrijfslocatie |
-|objectid		 |  |  |
-|identifica		 |  |  |
-|bouwjaar		 |  |  |
-|status		 |  |  |
-|k_id		 |  |  |
-|plantsoort		 |  |  |
-|teeltc		 |  |  |
-|teeltd		 |  |  |
-|wateropslg		 |  |  |
-|ol0wl1		 |  |  |
-|postcode		 |  |  |
-|pc6		 |  |  |
-|aantal_mul		 |  |  |
-|aantal_adr		 |  |  |
-|id		 |  |  |
-|code		 |  |  |
-|gemeentena		 |  |  |
-|lat		 |  |  |
-|lon	 |  |  |
+|identifica		 |  | BAG-ID |
+|bouwjaar		 | 1970 |  |
+|status		 | Pand in gebruik |  |
+|k_id		 | 8268 |  |
+|plantsoort		 |  | Attribuut is altijd leeg |
+|teeltc		 |  | Attribuut is altijd leeg |
+|teeltd		 |  | Attribuut is altijd leeg |
+|wateropslg		 |  | Attribuut is altijd leeg |
+|ol0wl1		 | 0 | Waarde is altijd 0 |
+|postcode		 |  | Postcode |
+|pc6		 |  | Postcode |
+|aantal_mul		 | 1 |  |
+|aantal_adr		 | 43 |  |
+|id		 | 116 |  |
+|code		 | 1621 | Gemeentecode |
+|gemeentena		 | Lansingerland | Gemeentenaam |
+|lat		 |  | Latitude |
+|lon	 |  | Longitude |
 
 ## Feature class in PI sandbox
 
