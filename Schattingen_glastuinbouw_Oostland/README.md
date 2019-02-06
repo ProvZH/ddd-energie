@@ -29,7 +29,7 @@ Het bestand bevat de volgende attributen:
 
 | Attribuut          | Voorbeeld | Beschrijving | 
 |----------         |-----------|--------------|
-|objectid_1	 | 1  | Uniek identificatienummer |
+|objectid	 | 1  | Uniek identificatienummer |
 |straatnaam	 |  | Straatnaam |
 |huisnummer		 |  | Huisnummer |
 |bedr_naam	 |  | Bedrijfsnaam |	
@@ -89,7 +89,6 @@ Het bestand bevat de volgende attributen:
 |identifica		 |  |  |
 |bouwjaar		 |  |  |
 |status		 |  |  |
-|shape_leng		 |  |  |
 |k_id		 |  |  |
 |plantsoort		 |  |  |
 |teeltc		 |  |  |
@@ -103,10 +102,6 @@ Het bestand bevat de volgende attributen:
 |id		 |  |  |
 |code		 |  |  |
 |gemeentena		 |  |  |
-|shape_le_1	 |  |  |
-|shape_area		 |  |  |
-|geometry		 |  |  |
-|centroid		 |  |  |
 |lat		 |  |  |
 |lon	 |  |  |
 
