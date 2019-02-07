@@ -132,4 +132,6 @@ Hoogspanningsnet_stations:
 
 ## Feature class in PI sandbox
 
-De lagen in de dataset zijn als feature classes terug te vinden in de PI sandbox database.
+De lagen in de dataset zijn als feature classes terug te vinden in de PI sandbox database.    
+
+Deze repo bevat ook de [FME workspace](hoogspanningsnet.com2fgdb.fmw) die uitgevoerd is om de dataset klaar te zetten voor de PI sandbox.
