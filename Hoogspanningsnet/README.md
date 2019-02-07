@@ -45,7 +45,7 @@ Hoogspanningsnet_masten:
 |Subtype||Subtype|
 |Verbinding||Verbinding|
 |Opmerkingen||Opmerkingen|
-|Foto||Hyperlink naar de foto|
+|Foto||Hyperlink naar foto|
 |Circuits||Circuits|
 
 Hoogspanningsnet_terreinen:
@@ -60,6 +60,74 @@ Hoogspanningsnet_terreinen:
 |Beheerdercode||Beheerdercode|
 |Beheerdernaam||Beheerdernaam|
 |Constructiewijze||Constructiewijze|
+|Frequentie||Frequentie (Hz)|
+|Hoogste_spanning||Hoogste spanning|
+|In_dienst|| In dienst|
+|Land||Land|
+|Naam||Naam|
+|Railcapaciteit||Railcapaciteit|
+|Railconfiguratie||Railconfiguratie|
+|Spanning||Spanning|
+|Systeem||Systeem|
+|Opmerkingen||Opmerkingen|
+|Foto||Hyperlink naar foto|
+
+Hoogspanningsnet_knooppunten:
+
+| Attribuut          | Voorbeeld | Beschrijving | 
+|----------         |-----------|--------------|
+|ID        || Uniek identificatienummer |
+|Beheerder||Beheerder|
+|IconPNG||Hyperlink naar plaatje pictogram|
+|In_dienst||In dienst|
+|Land||Land|
+|Naam||Naam|
+|Netsituatie||Netsituatie|
+|Spanning||Spanning|
+|Foto||Hyperlink naar foto|
+|Opmerkingen||Opmerkingen|
+
+Hoogspanningsnet_verbindingen:
+
+| Attribuut          | Voorbeeld | Beschrijving | 
+|----------         |-----------|--------------|
+|Hoofdtype || Hoofdtype |
+|ID        || Uniek identificatienummer |
+|Bedrijfsspanning||Bedrijfspanning|
+|Beheerder||Beheerder|
+|Beheerdercode||Beheerdercode|
+|Beheerdernummer||Beheerdernummer|
+|Constructiewijze||Constructiewijze|
+|Deelnet||Deelnet|
+|Frequentie||Frequentie (Hz)|
+|Hoogste_spanning|| Hoogste spanning |
+|In_dienst|| In dienst|
+|Land || Land|
+|Lengte || Lengte|
+|Naam||Naam|
+|Spanning||Spanning|
+|Systeem||Systeem|
+|Transportcapaciteit||Transportcapaciteit|
+|Opmerkingen||Opmerkingen|
+|Foto||Hyperlink naar foto|
+
+Hoogspanningsnet_stations:
+
+| Attribuut          | Voorbeeld | Beschrijving | 
+|----------         |-----------|--------------|
+|Hoofdtype || Hoofdtype |
+|ID        || Uniek identificatienummer |
+|Afkorting||Afkorting|
+|Beheerder_primair || Primaire beheerder|
+|Beheerder_secundair|| Secundaire beheerder|
+|In_dienst || In dienst|
+|Land||Land|
+|Naam||Naam|
+|Spanning||Spanning|
+|Spanningen||Spanningen|
+|Type||Type|
+|Opmerkingen||Opmerkingen|
+|Foto||Hyperlink naar foto|
 
 
 ## Feature class in PI sandbox
