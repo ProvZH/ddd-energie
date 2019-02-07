@@ -30,24 +30,24 @@ Hoogspanningsnet_masten:
 
 | Attribuut          | Voorbeeld | Beschrijving | 
 |----------         |-----------|--------------|
-|Hoofdtype || Hoofdtype |
-|ID        || Uniek identificatienummer |
-|Beheerder||Beheerder|
-|Benutting||Benutting|
-|Bouwwijze||Bouwwijze|
-|In_dienst|| In dienst|
-|Land||Land|
-|Mastfunctie||Mastfunctie|
-|Masthoogte||Masthoogte|
-|Mastmodel||Mastmodel|
-|Mastnummer||Mastnummer|
-|Naam||Naam|
-|Spanning||Spanning (kV)|
-|Subtype||Subtype|
-|Verbinding||Verbinding|
+|Hoofdtype |Vakwerkmast| Hoofdtype |
+|ID        |m775| Uniek identificatienummer |
+|Beheerder|TenneT|Beheerder|
+|Benutting|2x 380kV|Benutting|
+|Bouwwijze|Vakwerkmast|Bouwwijze|
+|In_dienst|1974 - heden| In dienst|
+|Land|Nederland|Land|
+|Mastfunctie|Steunmast|Mastfunctie|
+|Masthoogte|50.3 meter|Masthoogte|
+|Mastmodel|Donaumast|Mastmodel|
+|Mastnummer|CST-KIJ-380-10|Mastnummer|
+|Naam|CST-KIJ-380-10|Naam|
+|Spanning|380.0|Spanning (kV)|
+|Subtype|DO|Subtype|
+|Verbinding|Crayestein - Krimpen|Verbinding|
 |Opmerkingen||Opmerkingen|
-|Foto||Hyperlink naar foto|
-|Circuits||Circuits|
+|Foto|https://www.hoogspanningsforum.com/download/file.php?id=22347|Hyperlink naar foto|
+|Circuits|380 kV Krimpen - Dordrecht (wit), 380 kV Krimpen - Dordrecht (zwart)|Circuits|
 
 Hoogspanningsnet_terreinen:
 
