@@ -12,6 +12,8 @@ Gegevens van het hoogspanningsnet (masten, terreinen, knooppunten, verbindingen 
 **Bron Url:** 
 * [HoogspanningsNet Netkaart](https://webkaart.hoogspanningsnet.com/index2.php#6/52.000/5.000)
 
+**Licentie:** CC BY-NC-ND 4.0
+
 ![](voorbeeld_hoogspanningsnet.png)
 
 # Layers
