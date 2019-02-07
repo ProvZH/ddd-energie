@@ -130,9 +130,15 @@ Hoogspanningsnet_stations:
 |Opmerkingen||Opmerkingen|
 |Foto|https://www.hoogspanningsforum.com/download/file.php?id=12861|Hyperlink naar foto|
 
-
-## Feature class in PI sandbox
+## Dataset in PI sandbox
 
 De lagen in de dataset zijn als feature classes terug te vinden in de PI sandbox database.    
 
 Deze repo bevat ook de [FME workspace](hoogspanningsnet.com2fgdb.fmw) die uitgevoerd is om de dataset klaar te zetten voor de PI sandbox.
+
+## Dataset in Dataloket
+
+De lagen in de dataset zijn als CSV-bestanden terug te vinden in het Dataloket.     
+
+Deze repo bevat ook de [FME workspace](hoogspanningsnet.com2dataloket.fmw) die uitgevoerd is om de dataset te uploaden naar het Dataloket.
+
