@@ -48,6 +48,19 @@ Hoogspanningsnet_masten:
 |Foto||Hyperlink naar de foto|
 |Circuits||Circuits|
 
+Hoogspanningsnet_terreinen:
+
+| Attribuut          | Voorbeeld | Beschrijving | 
+|----------         |-----------|--------------|
+|Hoofdtype || Hoofdtype |
+|ID        || Uniek identificatienummer |
+|Aantal_velden|| Aantal velden|
+|Bedrijfsspanning||Bedrijfsspanning|
+|Beheerder||Beheerder|
+|Beheerdercode||Beheerdercode|
+|Beheerdernaam||Beheerdernaam|
+|Constructiewijze||Constructiewijze|
+
 
 ## Feature class in PI sandbox
 
