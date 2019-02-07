@@ -92,43 +92,43 @@ Hoogspanningsnet_verbindingen:
 
 | Attribuut          | Voorbeeld | Beschrijving | 
 |----------         |-----------|--------------|
-|Hoofdtype || Hoofdtype |
-|ID        || Uniek identificatienummer |
-|Bedrijfsspanning||Bedrijfspanning (kv)|
-|Beheerder||Beheerder|
+|Hoofdtype |Kabel| Hoofdtype |
+|ID        |v19497| Uniek identificatienummer |
+|Bedrijfsspanning|0 kV|Bedrijfspanning (kv)|
+|Beheerder|Stedin|Beheerder|
 |Beheerdercode||Beheerdercode|
 |Beheerdernummer||Beheerdernummer|
-|Constructiewijze||Constructiewijze|
-|Deelnet||Deelnet|
-|Frequentie||Frequentie (Hz)|
-|Hoogste_spanning|| Hoogste spanning (kV)|
-|In_dienst|| In dienst|
-|Land || Land|
-|Lengte || Lengte (km)|
-|Naam||Naam|
-|Spanning||Spanning (kV)|
-|Systeem||Systeem|
-|Transportcapaciteit||Transportcapaciteit (MVA)|
+|Constructiewijze|Grondkabel|Constructiewijze|
+|Deelnet|Goeree Overflakkee|Deelnet|
+|Frequentie|50,0 Hz|Frequentie (Hz)|
+|Hoogste_spanning|170 kV| Hoogste spanning (kV)|
+|In_dienst|1966 - heden| In dienst|
+|Land |Nederland| Land|
+|Lengte |0,16 km| Lengte (km)|
+|Naam|13 kV Stellendam-WP Roxennissepolderkabel (1)|Naam|
+|Spanning|0.0|Spanning (kV)|
+|Systeem|AC - Driefasen|Systeem|
+|Transportcapaciteit|300 MVA|Transportcapaciteit (MVA)|
 |Opmerkingen||Opmerkingen|
-|Foto||Hyperlink naar foto|
+|Foto|https://www.hoogspanningsforum.com/download/file.php?id=9832|Hyperlink naar foto|
 
 Hoogspanningsnet_stations:
 
 | Attribuut          | Voorbeeld | Beschrijving | 
 |----------         |-----------|--------------|
-|Hoofdtype || Hoofdtype |
-|ID        || Uniek identificatienummer |
-|Afkorting||Afkorting|
-|Beheerder_primair || Primaire beheerder|
-|Beheerder_secundair|| Secundaire beheerder|
-|In_dienst || In dienst|
-|Land||Land|
-|Naam||Naam|
-|Spanning||Spanning (kV)|
-|Spanningen||Spanningen|
-|Type||Type|
+|Hoofdtype |Station| Hoofdtype |
+|ID        |s6136| Uniek identificatienummer |
+|Afkorting|WL|Afkorting|
+|Beheerder_primair |TenneT| Primaire beheerder|
+|Beheerder_secundair|TenneT| Secundaire beheerder|
+|In_dienst |2010 - heden| In dienst|
+|Land|Nederland|Land|
+|Naam|Westerlee|Naam|
+|Spanning|380.0|Spanning (kV)|
+|Spanningen|380-150 kV|Spanningen|
+|Type|Koppelstation|Type|
 |Opmerkingen||Opmerkingen|
-|Foto||Hyperlink naar foto|
+|Foto|https://www.hoogspanningsforum.com/download/file.php?id=12861|Hyperlink naar foto|
 
 
 ## Feature class in PI sandbox
