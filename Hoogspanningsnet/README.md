@@ -53,39 +53,39 @@ Hoogspanningsnet_terreinen:
 
 | Attribuut          | Voorbeeld | Beschrijving | 
 |----------         |-----------|--------------|
-|Hoofdtype || Hoofdtype |
-|ID        || Uniek identificatienummer |
-|Aantal_velden|| Aantal velden|
-|Bedrijfsspanning||Bedrijfsspanning (kV)|
-|Beheerder||Beheerder|
-|Beheerdercode||Beheerdercode|
-|Beheerdernaam||Beheerdernaam|
-|Constructiewijze||Constructiewijze|
-|Frequentie||Frequentie (Hz)|
-|Hoogste_spanning||Hoogste spanning (kV)|
-|In_dienst|| In dienst|
-|Land||Land|
-|Naam||Naam|
-|Railcapaciteit||Railcapaciteit|
-|Railconfiguratie||Railconfiguratie|
-|Spanning||Spanning (kV)|
-|Systeem||Systeem|
+|Hoofdtype |Station| Hoofdtype |
+|ID        |t652| Uniek identificatienummer |
+|Aantal_velden|1xBipole Converter| Aantal velden|
+|Bedrijfsspanning|450 kV|Bedrijfsspanning (kV)|
+|Beheerder|TenneT|Beheerder|
+|Beheerdercode|TWG150|Beheerdercode|
+|Beheerdernaam|Theemsweg 150|Beheerdernaam|
+|Constructiewijze|Station|Constructiewijze|
+|Frequentie|50,0 Hz|Frequentie (Hz)|
+|Hoogste_spanning|170 kV|Hoogste spanning (kV)|
+|In_dienst|1999 - heden| In dienst|
+|Land|Nederland|Land|
+|Naam|Theemsweg|Naam|
+|Railcapaciteit|1600 A|Railcapaciteit|
+|Railconfiguratie|GIS|Railconfiguratie|
+|Spanning|150.0|Spanning (kV)|
+|Systeem|AC - Driefasen|Systeem|
 |Opmerkingen||Opmerkingen|
-|Foto||Hyperlink naar foto|
+|Foto|https://www.hoogspanningsforum.com/download/file.php?id=16587|Hyperlink naar foto|
 
 Hoogspanningsnet_knooppunten:
 
 | Attribuut          | Voorbeeld | Beschrijving | 
 |----------         |-----------|--------------|
-|ID        || Uniek identificatienummer |
-|Beheerder||Beheerder|
-|IconPNG||Hyperlink naar plaatje pictogram|
-|In_dienst||In dienst|
-|Land||Land|
-|Naam||Naam|
+|ID        |k1592| Uniek identificatienummer |
+|Beheerder|TenneT|Beheerder|
+|IconPNG|https://webkaart.hoogspanningsnet.com/files/node-150.png|Hyperlink naar plaatje pictogram|
+|In_dienst|2008 - heden|In dienst|
+|Land|Nederland|Land|
+|Naam|Andoorn|Naam|
 |Netsituatie||Netsituatie|
-|Spanning||Spanning (kV)|
-|Foto||Hyperlink naar foto|
+|Spanning|150 kV|Spanning (kV)|
+|Foto|https://www.hoogspanningsforum.com/download/file.php?id=17885|Hyperlink naar foto|
 |Opmerkingen||Opmerkingen|
 
 Hoogspanningsnet_verbindingen:
