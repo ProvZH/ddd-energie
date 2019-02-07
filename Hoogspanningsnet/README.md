@@ -9,8 +9,7 @@ Gegevens van het hoogspanningsnet (masten, terreinen, knooppunten, verbindingen 
 
 **Projectie:** Amersfoort RD New EPSG:28992
 
-**Bron Url:** 
-* [HoogspanningsNet Netkaart](https://webkaart.hoogspanningsnet.com/index2.php#6/52.000/5.000)
+**Bron Url:** [HoogspanningsNet Netkaart](https://webkaart.hoogspanningsnet.com/index2.php#6/52.000/5.000)
 
 **Licentie:** CC BY-NC-ND 4.0
 
