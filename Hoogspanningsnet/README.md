@@ -41,7 +41,7 @@ Hoogspanningsnet_masten:
 |Mastmodel||Mastmodel|
 |Mastnummer||Mastnummer|
 |Naam||Naam|
-|Spanning||Spanning|
+|Spanning||Spanning (kV)|
 |Subtype||Subtype|
 |Verbinding||Verbinding|
 |Opmerkingen||Opmerkingen|
@@ -55,19 +55,19 @@ Hoogspanningsnet_terreinen:
 |Hoofdtype || Hoofdtype |
 |ID        || Uniek identificatienummer |
 |Aantal_velden|| Aantal velden|
-|Bedrijfsspanning||Bedrijfsspanning|
+|Bedrijfsspanning||Bedrijfsspanning (kV)|
 |Beheerder||Beheerder|
 |Beheerdercode||Beheerdercode|
 |Beheerdernaam||Beheerdernaam|
 |Constructiewijze||Constructiewijze|
 |Frequentie||Frequentie (Hz)|
-|Hoogste_spanning||Hoogste spanning|
+|Hoogste_spanning||Hoogste spanning (kV)|
 |In_dienst|| In dienst|
 |Land||Land|
 |Naam||Naam|
 |Railcapaciteit||Railcapaciteit|
 |Railconfiguratie||Railconfiguratie|
-|Spanning||Spanning|
+|Spanning||Spanning (kV)|
 |Systeem||Systeem|
 |Opmerkingen||Opmerkingen|
 |Foto||Hyperlink naar foto|
@@ -83,7 +83,7 @@ Hoogspanningsnet_knooppunten:
 |Land||Land|
 |Naam||Naam|
 |Netsituatie||Netsituatie|
-|Spanning||Spanning|
+|Spanning||Spanning (kV)|
 |Foto||Hyperlink naar foto|
 |Opmerkingen||Opmerkingen|
 
@@ -93,21 +93,21 @@ Hoogspanningsnet_verbindingen:
 |----------         |-----------|--------------|
 |Hoofdtype || Hoofdtype |
 |ID        || Uniek identificatienummer |
-|Bedrijfsspanning||Bedrijfspanning|
+|Bedrijfsspanning||Bedrijfspanning (kv)|
 |Beheerder||Beheerder|
 |Beheerdercode||Beheerdercode|
 |Beheerdernummer||Beheerdernummer|
 |Constructiewijze||Constructiewijze|
 |Deelnet||Deelnet|
 |Frequentie||Frequentie (Hz)|
-|Hoogste_spanning|| Hoogste spanning |
+|Hoogste_spanning|| Hoogste spanning (kV)|
 |In_dienst|| In dienst|
 |Land || Land|
-|Lengte || Lengte|
+|Lengte || Lengte (km)|
 |Naam||Naam|
-|Spanning||Spanning|
+|Spanning||Spanning (kV)|
 |Systeem||Systeem|
-|Transportcapaciteit||Transportcapaciteit|
+|Transportcapaciteit||Transportcapaciteit (MVA)|
 |Opmerkingen||Opmerkingen|
 |Foto||Hyperlink naar foto|
 
@@ -123,7 +123,7 @@ Hoogspanningsnet_stations:
 |In_dienst || In dienst|
 |Land||Land|
 |Naam||Naam|
-|Spanning||Spanning|
+|Spanning||Spanning (kV)|
 |Spanningen||Spanningen|
 |Type||Type|
 |Opmerkingen||Opmerkingen|
