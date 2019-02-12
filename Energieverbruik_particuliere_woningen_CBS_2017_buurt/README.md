@@ -40,4 +40,4 @@ Het bestand bevat de volgende attributen:
 
 ## Feature class in PI sandbox
 
-De dataset is als feature class `???` terug te vinden in de PI sandbox database.
+De dataset is als feature class `Energieverbruik_particuliere_woningen_CBS_2017_buurt` terug te vinden in de PI sandbox database.
