@@ -34,21 +34,22 @@ Het bestand bevat de volgende attributen:
 
 | Attribuut          | Voorbeeld | Beschrijving | 
 |----------         |-----------|--------------|
-|buurtcode|   | Buurtcode |
-|buurtnaam | | Buurtnaam|
-|gemeentecode | | Gemeentecode|
-|gemeentenaam || Gemeentenaam|
-|wijkcode | | Wijkcode|
-|ID || Uniek identificatienummer|
-|Woningkenmerken | | Woningkenmerken|
-|WijkenEnBuurten | | |
-|SoortRegio| | Aantal berekende woningen voor aardgas|
-|Codering | | Gemiddeld woningelektraverbruik (kWh)|
-|GemiddeldAardgasverbruik_m3 | | Gemiddeld aardgasverbruik (m3)|
-|GemiddeldElectriciteitsverbruik_kWh | | Gemiddeld electriciteitsverbruik (m3)|
-|Stadsverwarming_perc| | |
-|IndelingswijzigingWijkenEnBuurten | | |
-|Woningkenmerken_label | ||
+| OBJECTID| 1| Uniek identificatienummer |
+|buurtcode| BU17830701  | Buurtcode |
+|buurtnaam | Buitengebied De Lier | Buurtnaam|
+|gemeentecode |GM1783 | Gemeentecode|
+|gemeentenaam |Westland| Gemeentenaam|
+|wijkcode |WK178307 | Wijkcode|
+|ID |15523| |
+|Woningkenmerken |a | Woningkenmerken|
+|WijkenEnBuurten | BU17830701| |
+|SoortRegio|Buurt | Aantal berekende woningen voor aardgas|
+|Codering |BU17830701 | Gemiddeld woningelektraverbruik (kWh)|
+|GemiddeldAardgasverbruik_m3 |2310 | Gemiddeld aardgasverbruik (m3)|
+|GemiddeldElectriciteitsverbruik_kWh |4800 | Gemiddeld electriciteitsverbruik (m3)|
+|Stadsverwarming_perc|<null> | |
+|IndelingswijzigingWijkenEnBuurten |1 | |
+|Woningkenmerken_label | Totaal woningen ||
 
 ## Feature class in PI sandbox
 
