@@ -1,17 +1,18 @@
 
-# Energieverbruik van particuliere woningen in 2017 per buurt (CBS)
+# Energieverbruik particuliere woningen; woningtype, wijken en buurten, 2017
 
-Deze dataset bevat gegevens over het energieverbruik in 2017 in de provincie Zuid-Holland per buurt. 
+Deze dataset bevat gegevens over het energieverbruik in 2017 in de provincie Zuid-Holland. 
 De gegevens zijn afkomstig van het CBS.
 
 **Jaar:** 2017
 
 **Dekking:** Zuid-Holland
 
+**Granulariteit:** Buurten
+
 **Projectie:** Amersfoort RD New EPSG:28992
 
-**Bron Url:** 
-
+**Bron Url:** https://statline.cbs.nl/StatWeb/publication/?VW=T&DM=SLNL&PA=84314NED
 
 ![](voorbeeld_energieverbruik_cbs_2017_buurt.png)
 
@@ -44,4 +45,4 @@ Het bestand bevat de volgende attributen:
 
 ## Feature class in PI sandbox
 
-De dataset is als feature class `Energieverbruik_CBS_2014_buurt` terug te vinden in de PI sandbox database.
+De dataset is als feature class `???` terug te vinden in de PI sandbox database.
