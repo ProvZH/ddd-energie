@@ -26,8 +26,6 @@ Het percentage woningen met stadsverwarming wordt vermeld bij tien of meer (bewo
 * https://statline.cbs.nl/StatWeb/publication/?VW=T&DM=SLNL&PA=84314NED
 * https://opendata.cbs.nl/dataportaal/portal.html#/CBS/nl/dataset/table?graphtype=Table&tableId=84314NED
 
-![](voorbeeld_energieverbruik_cbs_2017_buurt.png)
-
 ## Attributen
 
 Het bestand bevat de volgende attributen:
