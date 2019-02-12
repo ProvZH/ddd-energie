@@ -41,3 +41,6 @@ Het bestand bevat de volgende attributen:
 ## Feature class in PI sandbox
 
 De dataset is als feature class `Energieverbruik_particuliere_woningen_CBS_2017_buurt` terug te vinden in de PI sandbox database.
+
+Deze repo bevat ook de [FME workspace](Energieverbruik_particuliere_woningen_2017.fmw) die uitgevoerd is om de dataset te uploaden naar het Dataloket.
+
