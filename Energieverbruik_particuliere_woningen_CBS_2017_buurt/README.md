@@ -35,8 +35,8 @@ Het bestand bevat de volgende attributen:
 |GemiddeldAardgasverbruik_m3 | | Gemiddeld aardgasverbruik (m3)|
 |GemiddeldElectriciteitsverbruik_kWh | | Gemiddeld electriciteitsverbruik (m3)|
 |Stadsverwarming_perc| | |
-|IndelingswijzigingWijkenEnBuurten | | Totaal bedrijfgasverbruik (m3)|
-|Woningkenmerken_label | | Aantal berekende bedrijven voor aardgas|
+|IndelingswijzigingWijkenEnBuurten | | |
+|Woningkenmerken_label | ||
 
 ## Feature class in PI sandbox
 
