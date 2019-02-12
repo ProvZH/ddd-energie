@@ -14,6 +14,9 @@ De cijfers van het gemiddeld aardgasverbruik en het gemiddeld elektriciteitsverb
 
 Het percentage woningen met stadsverwarming wordt vermeld bij tien of meer (bewoonde) woningen. 
 
+Let op:
+De feature class bevat meerdere features voor dezelfde buurt. De waarde van het attributen `Woningkenmerken` en `Woningkenmerken_label` is dan steeds verschillend.
+
 **Jaar:** 2017
 
 **Dekking:** Zuid-Holland
@@ -39,7 +42,7 @@ Het bestand bevat de volgende attributen:
 |gemeentenaam |Westland| Gemeentenaam|
 |wijkcode |WK178307 | Wijkcode|
 |ID |15523| |
-|Woningkenmerken |a | Woningkenmerken|
+|Woningkenmerken |a | Woningkenmerken (gecodeerd)|
 |WijkenEnBuurten | BU17830701| |
 |SoortRegio|Buurt | Aantal berekende woningen voor aardgas|
 |Codering |BU17830701 | Gemiddeld woningelektraverbruik (kWh)|
@@ -47,7 +50,7 @@ Het bestand bevat de volgende attributen:
 |GemiddeldElectriciteitsverbruik_kWh |4800 | Gemiddeld electriciteitsverbruik (m3)|
 |Stadsverwarming_perc|<null> | |
 |IndelingswijzigingWijkenEnBuurten |1 | |
-|Woningkenmerken_label | Totaal woningen ||
+|Woningkenmerken_label | Totaal woningen |Omschrijving van woningkenmerken|
 
 ## Feature class in PI sandbox
 
