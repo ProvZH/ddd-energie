@@ -3,19 +3,19 @@
 
 Deze tabel geeft regionale gegevens over het gemiddelde energieverbruik per woning (aardgas en elektriciteit) van particuliere woningen onderverdeeld naar verschillende woningtypen en type eigendom voor wijken en buurten in de provincie Zuid-Holland. Daarnaast is alleen voor totaal woningen het percentage stadsverwarming opgenomen, omdat dit relevant is voor de interpretatie van de hoogte van het gemiddeld aardgasverbruik.
 
-Definities:
-Particuliere woning:
-Een verblijfsobject in de Basis Registraties Adressen en Gebouwen (BAG) met als gebruiksfunctie 'woonfunctie' en géén andere functie. 
+Definities:    
+Particuliere woning:    
+Een verblijfsobject in de Basis Registraties Adressen en Gebouwen (BAG) met als gebruiksfunctie 'woonfunctie' en géén andere functie.   
 
-Stadsverwarming:
-Een verwarmingssysteem waarbij de woningen in een wijk worden verwarmd via een ondergronds netwerk van warmwaterleidingen.
+Stadsverwarming:    
+Een verwarmingssysteem waarbij de woningen in een wijk worden verwarmd via een ondergronds netwerk van warmwaterleidingen.    
 
-De cijfers van het gemiddeld aardgasverbruik en het gemiddeld elektriciteitsverbruik zijn afgerond op vijftigtallen en worden vermeld bij zes of meer (bewoonde) woningen per woningtype of type eigendom.
+De cijfers van het gemiddeld aardgasverbruik en het gemiddeld elektriciteitsverbruik zijn afgerond op vijftigtallen en worden vermeld bij zes of meer (bewoonde) woningen per woningtype of type eigendom.    
 
-Het percentage woningen met stadsverwarming wordt vermeld bij tien of meer (bewoonde) woningen. 
+Het percentage woningen met stadsverwarming wordt vermeld bij tien of meer (bewoonde) woningen.     
 
-Let op:
-De feature class bevat meerdere features voor dezelfde buurt. De waarde van het attributen `Woningkenmerken` en `Woningkenmerken_label` is dan steeds verschillend.
+Let op:    
+De feature class bevat meerdere features voor dezelfde buurt. De waarde van het attributen `Woningkenmerken` en `Woningkenmerken_label` is dan steeds verschillend.    
 
 **Jaar:** 2017
 
@@ -56,7 +56,7 @@ Het bestand bevat de volgende attributen:
 
 De dataset is als feature class `Energieverbruik_particuliere_woningen_CBS_2017_buurt` terug te vinden in de PI sandbox database.
 
-Deze repo bevat ook de [FME workspace](Energieverbruik_particuliere_woningen_2017.fmw) die uitgevoerd is om de dataset te op te vragen en weg te schrijven naar een file geodatabase.
+Deze repo bevat ook de [FME workspace](Energieverbruik_particuliere_woningen_CBS_2017_buurt.fmw) die uitgevoerd is om de dataset te op te vragen en weg te schrijven naar een file geodatabase.
 
 
 
