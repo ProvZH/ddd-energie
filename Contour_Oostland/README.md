@@ -5,3 +5,5 @@ Deze folder bevat een ZIP-bestand met daarin
 * de buurten in het Oostland-gebied.
 
 De bestanden zijn in shape-formaat in RD New.
+
+Er staat ook een FME workspace waarmee de shape-bestanden gegenereerd zijn.
